@@ -1,4 +1,4 @@
-# task
+# messenger
 
 ## Project setup
 ```
